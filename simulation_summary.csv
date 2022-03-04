@@ -1,0 +1,10 @@
+term,MSE of Estimate,Mean Bias,Coverage
+OLS + quadradic,0,-0.03,0.94
+RFA,0.01,1.42,0.95
+SVA,0.3,14.88,0.54
+Matching (genetic),0.91,21.65,0.98
+Matching (logit + quad),0.92,21.8,0.8
+Matching (logit),0.92,21.97,0.79
+OLS + interaction,4.44,61.2,0.37
+OLS + control,7.13,81.71,0.01
+OLS,350.46,575.53,0.01
